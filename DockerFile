@@ -1,5 +1,4 @@
 FROM alpine:latest
-
 WORKDIR /app
 
 CMD ["echo", "Hello! Welcome to my first Docker container."]
